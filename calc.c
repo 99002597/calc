@@ -131,7 +131,7 @@
                             printf("Please enter second number: "); 
                             scanf("%ld", &b);
                             mul=a*b;
-                            printf("\nMultiplication of entered numbers = %d\n",mul);
+                            printf("\nMultiplication of entered numbers = %ld\n",mul);
                         }
                          
                         void division()
